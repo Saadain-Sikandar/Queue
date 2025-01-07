@@ -12,4 +12,5 @@ public class Restaurant {
         this.dish = dish;
         this.tableNo = tableNo;
     }
+    
 }
