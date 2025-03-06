@@ -47,7 +47,6 @@ public class BST {
         PreOrder(root);
     }
 
-
     public void InOrder(Node current){
 
         if(current == null){
